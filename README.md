@@ -1,6 +1,6 @@
-# quotes
+# DEXTERITY
 
-A new Flutter application.
+A Flutter application.
 
 ## Getting Started
 
